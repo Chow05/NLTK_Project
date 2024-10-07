@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "chow05",
+        "projectKey": "Chow05_Sentiment_Analysis_Project"
+    }
+}
